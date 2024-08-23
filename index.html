@@ -23,9 +23,7 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            const fileUrl = 'https://drive.google.com/uc?export=download&id=1QlVCqc7J9cU-IS5_ThZ2eaqJgSctu5426Q6t6d02QdA'; // Direct download link
-
-            fetch(fileUrl)
+            fetch('https://svdm.rf.gd/svdd/links.m3u') // Replace 'links.m3u' with the name of your file
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('Network response was not ok ' + response.statusText);
