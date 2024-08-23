@@ -21,9 +21,11 @@
     <h2>File Contents:</h2>
     <pre id="fileContents">Loading...</pre>
 
-    <script>https://docs.google.com/document/d/1QlVCqc7J9cU-IS5_ThZ2eaqJgSctu5426Q6t6d02QdA/edit?usp=sharing
+    <script>
         document.addEventListener('DOMContentLoaded', function() {
-            fetch('https://drive.usercontent.google.com/download?id=1QlVCqc7J9cU-IS5_ThZ2eaqJgSctu5426Q6t6d02QdA') // Replace 'links.m3u' with the name of your file
+            const fileUrl = 'https://drive.google.com/uc?export=download&id=1QlVCqc7J9cU-IS5_ThZ2eaqJgSctu5426Q6t6d02QdA'; // Direct download link
+
+            fetch(fileUrl)
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('Network response was not ok ' + response.statusText);
