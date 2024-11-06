@@ -1,0 +1,53 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "name": "ETV_HD",
+      "description": "Description for Channel One",
+      "stream_url": "https://d7rw24rjxc0ra.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_HD_H264/index.m3u8",
+      "image_url": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png"
+    },
+    {
+      "id": 2,
+      "name": "ETV_CINEMA",
+      "description": "Description for Channel Two",
+      "stream_url": "https://d3l6wdq9op77vw.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_CINEMA_H264/index.m3u8",
+      "image_url": "https://static.wikia.nocookie.net/logopedia/images/a/ab/ETV_Cinema_HD.jpg/revision/latest?cb=20191115071911"
+    },
+    {
+      "id": 3,
+      "name": "ETV_PLUS",
+      "description": "Description for Channel Three",
+      "stream_url": "https://dw56h1aaay8sg.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_PLUS_H264/index.m3u8",
+      "image_url": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus.png"
+    },
+    {
+      "id": 4,
+      "name": "ETV_ABHIRUCHI",
+      "description": "Description for Channel Three",
+      "stream_url": "https://d1ukkqluw2r4g5.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_ABHIRUCHI_H264/index.m3u8",
+      "image_url": "https://yt3.googleusercontent.com/ytc/AIdro_m6uUmduSDPSVJxbBtcOu7zcecplAgG0EeEA2TXjbxpiw=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 5,
+      "name": "ETV_LIFE",
+      "description": "Description for Channel Three",
+      "stream_url": "https://d1s3zdjcu5tny9.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_LIFE_H264/index.m3u8",
+      "image_url": "https://static.wikia.nocookie.net/logopedia/images/0/03/Etv-life-log.png/revision/latest?cb=20220524200006"
+    },
+    {
+      "id": 6,
+      "name": "ETV Andhra",
+      "description": "Description for Channel Three",
+      "stream_url": "https://d1missilavut3r.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_AP_H264/index.m3u8",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIoexwWUVwsUBJTqcpRxSNezAW692rRGVhQ&s"
+    },
+    {
+      "id": 7,
+      "name": "ETV Telangana",
+      "description": "Description for Channel Three",
+      "stream_url": "https://d3ixok5ip38laf.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_TS_H264/index.m3u8",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1NLXD2cq2iIYWChq7EvwTBnWhfkdkxt2BLg&s"
+    }
+  ]
+}
