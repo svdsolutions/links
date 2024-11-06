@@ -48,6 +48,147 @@
       "description": "Description for Channel Seven",
       "stream_url": "https://d3ixok5ip38laf.cloudfront.net/v1/master/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_TS_H264/index.m3u8",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1NLXD2cq2iIYWChq7EvwTBnWhfkdkxt2BLg&s"
+    },    
+    {
+      "id": 8,
+      "name": "10 TV",
+      "description": "1080p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UCfymZbh17_3T_UhgjkQ9fRQ.m3u8",
+      "image_url": "https://example.com/images/10tv.jpg"
+    },
+    {
+      "id": 9,
+      "name": "99TV",
+      "description": "720p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8",
+      "image_url": "https://example.com/images/99tv.jpg"
+    },
+    {
+      "id": 10,
+      "name": "ABN Andhra Jyoti",
+      "description": "720p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UC_2irx_BQR7RsBKmUV9fePQ.m3u8",
+      "image_url": "https://example.com/images/abn.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Bhakthi TV",
+      "description": "720p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UCSzOZ97LOpU-_AVlGfmD4rQ.m3u8",
+      "image_url": "https://example.com/images/bhakthi.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Calvary TV",
+      "description": "720p channel",
+      "stream_url": "https://player.mslivestream.net/mslive/71e7f7cc7dc7c51206b7b3bbb51e3052.sdp/playlist.m3u8",
+      "image_url": "https://example.com/images/calvary.jpg"
+    },
+    {
+      "id": 13,
+      "name": "CVR News Telugu",
+      "description": "720p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UCixD-KrpjXtMupkzkdFFlFg.m3u8",
+      "image_url": "https://example.com/images/cvr.jpg"
+    },
+    {
+      "id": 14,
+      "name": "ETV Andhra Pradesh",
+      "description": "1080p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8",
+      "image_url": "https://example.com/images/etv_ap.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Gospel TV India",
+      "description": "720p channel",
+      "stream_url": "http://live.adostream.com:1935/gospeltv/gospeltv/playlist.m3u8",
+      "image_url": "https://example.com/images/gospel.jpg"
+    },
+    {
+      "id": 16,
+      "name": "HMTV",
+      "description": "720p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UCNZOrs1QBt8cJnv9ud96qRA.m3u8",
+      "image_url": "https://example.com/images/hmtv.jpg"
+    },
+    {
+      "id": 17,
+      "name": "iNEWS",
+      "description": "1080p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8",
+      "image_url": "https://example.com/images/inews.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Metro TV",
+      "description": "576p channel",
+      "stream_url": "https://2nbyjxw5l53k-hls-live.qezycdn.com/metrotv/live.stream/playlist.m3u8",
+      "image_url": "https://example.com/images/metro.jpg"
+    },
+    {
+      "id": 19,
+      "name": "NTV Telugu",
+      "description": "1080p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8",
+      "image_url": "https://example.com/images/ntv.jpg"
+    },
+    {
+      "id": 20,
+      "name": "PMC Hindi TV",
+      "description": "1080p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UCAxPB6BRBujBQwjO0Whg1Bg.m3u8",
+      "image_url": "https://example.com/images/pmc.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Prime9 News",
+      "description": "720p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8",
+      "image_url": "https://example.com/images/prime9.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Sakshi TV",
+      "description": "720p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UCQ_FATLW83q-4xJ2fsi8qAw.m3u8",
+      "image_url": "https://example.com/images/sakshi.jpg"
+    },
+    {
+      "id": 23,
+      "name": "SVBC Sri Venkateswara Bhakti Channel",
+      "description": "1080p channel",
+      "stream_url": "https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8",
+      "image_url": "https://example.com/images/svbc.jpg"
+    },
+    {
+      "id": 24,
+      "name": "TV5 News",
+      "description": "720p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8",
+      "image_url": "https://example.com/images/tv5.jpg"
+    },
+    {
+      "id": 25,
+      "name": "TV9 Telugu",
+      "description": "720p channel",
+      "stream_url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8",
+      "image_url": "https://example.com/images/tv9.jpg"
+    },
+    {
+      "id": 26,
+      "name": "V6 News",
+      "description": "720p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UCDCMjD1XIAsCZsYHNMGVcog.m3u8",
+      "image_url": "https://example.com/images/v6.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Zee Telugu News",
+      "description": "720p channel",
+      "stream_url": "https://ythls.armelin.one/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8",
+      "image_url": "https://example.com/images/zee.jpg"
     }
+    
   ]
 }
